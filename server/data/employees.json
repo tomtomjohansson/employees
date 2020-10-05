@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "firstName": "Janne",
+      "lastName": "Jansson",
+      "company": "Adidas",
+      "id": "d2b0ba24-4d3e-49a0-b95b-e5d49e1febd9"
+    },
+    {
+      "firstName": "Bengt",
+      "lastName": "Bengtsson",
+      "company": "Nike",
+      "id": "b3df58bf-b397-425f-b19d-2981f112f1cd"
+    },
+    {
+      "firstName": "Lars",
+      "lastName": "Larsson",
+      "company": "",
+      "id": "30ed8990-69fc-4869-bccf-85628244c945"
+    },
+    {
+      "firstName": "Hasse",
+      "lastName": "Hansson",
+      "company": "Nike",
+      "id": "c4f4c5fa-3016-4906-884a-6b7a3bf5fd74"
+    },
+    {
+      "firstName": "Björn",
+      "lastName": "Björnsson",
+      "company": "",
+      "id": "3d661e32-1717-4198-90c9-5404bbc9cebe"
+    }
+  ]
+}

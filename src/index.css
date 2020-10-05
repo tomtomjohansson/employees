@@ -1,0 +1,102 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: helvetica;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+label {
+  font-family: sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: blue;
+  display: block;
+  margin-bottom: 2px;
+}
+
+input,
+select {
+  margin-bottom: 20px;
+}
+
+input {
+  border-radius: 2px;
+  padding: 4px 4px;
+}
+
+input:focus {
+  outline: blue;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-family: sans-serif;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: lightgray;
+  cursor: auto;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+  font-family: verdana;
+}
+
+.mainContainer {
+  width: 100%;
+  max-width: 1220px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.successContainer {
+  background-color: mediumseagreen;
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -100px;
+  transition: top ease-in 0.2s;
+  padding: 0px 10px;
+  border-radius: 4px;
+}
+
+.successShow {
+  top: 10px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: none;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: lightsteelblue;
+}

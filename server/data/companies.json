@@ -1,0 +1,12 @@
+{
+  "companies": [
+    {
+      "name": "Adidas",
+      "id": "d4922f90-b30a-4ada-9ad3-7865f1c25fc1"
+    },
+    {
+      "name": "Nike",
+      "id": "66ffbaf3-b6b9-4679-8e1a-4e45d2cf0ce8"
+    }
+  ]
+}
